@@ -1,0 +1,18 @@
+#!/bin/bash
+
+if [ $# -lt 1 ] || [ ! -f $1 ]
+then
+    echo "Hiba">&2
+    exit 1
+fi
+
+sum=0
+for i in $@
+do
+    
+    sum=$(($sum + $i))    
+done
+
+echo $sum
+   
+exit 0

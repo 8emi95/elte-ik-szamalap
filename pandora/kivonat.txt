@@ -1,0 +1,11 @@
+csatlose1:*:13375:6401:csatlos erzsebet:/h/NincsHasznalva/csatlose1:/bin/bash
+csicsilla1:*:13378:6401:csiszar csilla:/h/NincsHasznalva/csicsilla1:/bin/bash
+remenyiz1:*:13374:6401:remenyi zoltan:/h/NincsHasznalva/remenyiz1:/bin/bash
+enigma:*:28089:11056:HEKLI Szabina:/h/NincsHasznalva/enigma:/bin/bash
+b_andras:*:32799:11056:ANDRAS Balogh:/h/pandora/inf/Users/b_andras:/bin/bash
+szdpadt:*:17687:65537:Szecsi Dorottya:/h/tanulok/informatikusfizikus/szdpadt:/bin/bash
+root:x:0:0:root:/root:/bin/bash
+daemon:*:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:*:2:2:bin:/bin:/usr/sbin/nologin
+sys:*:3:3:sys:/dev:/usr/sbin/nologin
+sync:*:4:65534:sync:/bin:/bin/sync

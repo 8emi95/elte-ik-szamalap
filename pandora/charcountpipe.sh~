@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cat | while read line
+      do
+	  echo "$(echo -n $line | wc -c) : $line"
+      done
+
+exit 0

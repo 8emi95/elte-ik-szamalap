@@ -1,0 +1,15 @@
+01. man ln
+02. cd ~/
+03. whoami
+04. > szoveg.txt
+05. mkdir -p ~/zh/elso\ zh/\a\ csoport/
+06. mv szoveg.txt ~/zh/elso\ zh/a\ csoport/
+07. cp -r ~/zh/elso\ zh/ ~/zh/masodik\ zh/
+08. rm -r ~/zh/masodik\ zh/
+09. ls -R /etc/ > ~/zh/elso\ zh/a\ csoport/"szoveg.txt"
+10. chmod go-w "szoveg.txt"
+11. tail -n2 /etc/passwd >> ~/zh/elso\ zh/a\ csoport/szoveg.txt
+12. cat /etc/passwd | grep 8emi95 | cut -d":" -f5
+13. finger -s
+14. ps aux | grep bash | grep -v grep
+15. ch ~/ | cd ../

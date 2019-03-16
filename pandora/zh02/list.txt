@@ -1,0 +1,3 @@
+tej,1,150
+alma,5,200
+zabpehely,1,200
